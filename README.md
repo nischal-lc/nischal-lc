@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Typescript**
 
-- 👨‍💻 All of my projects are available at [lamichhanenischal.com.np](lamichhanenischal.com.np)
+- 👨‍💻 All of my projects are available at [lamichhanenischal.com.np](https://www.lamichhanenischal.com.np)
 
 - 💬 Ask me about **Front End**
 
